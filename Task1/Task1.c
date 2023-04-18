@@ -81,3 +81,39 @@ int main() {
             
 	
 }
+
+OUTPUT:-
+kshitija23dreamer@kshitija23-dreamer:~/InternshipTask$ vim Task1.c
+kshitija23dreamer@kshitija23-dreamer:~/InternshipTask$ cc  Task1.c
+kshitija23dreamer@kshitija23-dreamer:~/InternshipTask$ ./a.out
+welcome To The Birthday List Mangement System!!
+we have the records of 5 friends 
+The list of the names we have is as follow:
+.Abhijeet
+.Bhushan
+.Priya
+.Sakshi
+.Maitreyi
+From the above list choose name and then
+enter the initial letter of their name to see the birthday details of your friend.
+NOW!!! enter the initial letter of the name you have choose:M
+
+The details are as follow:
+
+Name:Maitreyi anil kulkarni
+ DOB:1/08/2001
+Email:maitreyi2001@gmail.com
+kshitija23dreamer@kshitija23-dreamer:~/InternshipTask$ ./a.out
+welcome To The Birthday List Mangement System!!
+we have the records of 5 friends 
+The list of the names we have is as follow:
+.Abhijeet
+.Bhushan
+.Priya
+.Sakshi
+.Maitreyi
+From the above list choose name and then
+enter the initial letter of their name to see the birthday details of your friend.
+NOW!!! enter the initial letter of the name you have choose:Z
+
+please enter proper initial letter, the letter you have entered is not from our list!!!
